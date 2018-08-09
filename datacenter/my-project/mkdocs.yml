@@ -1,0 +1,8 @@
+site_name: 数据管理平台
+
+pages:
+- 测试环境分布: index.md
+- 分支发布状态: about.md
+- 对应发布系统: release.md
+
+theme: readthedocs
